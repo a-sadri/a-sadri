@@ -1,4 +1,4 @@
-### "<Ali Sadri />"
+
 
 ### "Full Stack Developer"
 
